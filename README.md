@@ -4,6 +4,17 @@
 <meta charset="UTF-8">
 <link rel="stylesheet"
 href="Ventes de jus 3.css">
+  <style>
+    strong{font-weight:bold;}
+h1{color:yellow;
+background-color:blue;
+text-align:center;}
+h2{text-align:center;
+color:pink;}
+ul{background-color:yellow;
+color:green;}
+section{color:blue;}
+  </style>
 <title> 
 <strong>
 La solution
