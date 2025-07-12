@@ -59,6 +59,7 @@ width="340" height="220">
 </h2>
 </ul>
 <section><h3> Livraison possible pour vos différents évènements</h3>
+  <br>
 <h1>Contact
 <h3>Whatsapp:<a href="https://wa.me/22678754288">+226 78754288</a><br>
 Orange money:+226 76057946</h3>
