@@ -2,8 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet"
-href="Ventes de jus 3.css">
+<title> 
+<strong>
+La solution
+</strong>
+</title>
   <style>
     strong{font-weight:bold;}
 h1{color:yellow;
@@ -15,11 +18,6 @@ ul{background-color:yellow;
 color:green;}
 section{color:blue;}
   </style>
-<title> 
-<strong>
-La solution
-</strong>
-</title>
 <h1>
 <strong>
 La solution
